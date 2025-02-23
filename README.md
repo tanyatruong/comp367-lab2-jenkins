@@ -2,4 +2,4 @@
 Jenkins vs GitHub Integration through webhooks
 By Tanya Truong
 1
-1
+2
